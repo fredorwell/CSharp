@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\bin\Debug\net6.0\lecture_02_array.exe
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\bin\Debug\net6.0\lecture_02_array.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\bin\Debug\net6.0\lecture_02_array.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\bin\Debug\net6.0\lecture_02_array.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\bin\Debug\net6.0\lecture_02_array.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\refint\lecture_02_array.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\lecture_02_array.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_02_array\obj\Debug\net6.0\ref\lecture_02_array.dll

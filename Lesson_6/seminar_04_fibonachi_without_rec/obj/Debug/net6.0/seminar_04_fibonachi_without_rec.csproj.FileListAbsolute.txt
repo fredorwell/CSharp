@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\bin\Debug\net6.0\seminar_04_fibonachi_without_rec.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\bin\Debug\net6.0\seminar_04_fibonachi_without_rec.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\bin\Debug\net6.0\seminar_04_fibonachi_without_rec.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\bin\Debug\net6.0\seminar_04_fibonachi_without_rec.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\bin\Debug\net6.0\seminar_04_fibonachi_without_rec.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\refint\seminar_04_fibonachi_without_rec.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\seminar_04_fibonachi_without_rec.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_04_fibonachi_without_rec\obj\Debug\net6.0\ref\seminar_04_fibonachi_without_rec.dll

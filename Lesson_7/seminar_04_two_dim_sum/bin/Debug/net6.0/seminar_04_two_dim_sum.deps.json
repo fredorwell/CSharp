@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "seminar_04_two_dim_sum/1.0.0": {
+        "runtime": {
+          "seminar_04_two_dim_sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar_04_two_dim_sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

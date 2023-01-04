@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\bin\Debug\net6.0\seminar_04_delet_min_value_column.exe
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\bin\Debug\net6.0\seminar_04_delet_min_value_column.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\bin\Debug\net6.0\seminar_04_delet_min_value_column.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\bin\Debug\net6.0\seminar_04_delet_min_value_column.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\bin\Debug\net6.0\seminar_04_delet_min_value_column.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\refint\seminar_04_delet_min_value_column.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\seminar_04_delet_min_value_column.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_04_delet_min_value_column\obj\Debug\net6.0\ref\seminar_04_delet_min_value_column.dll

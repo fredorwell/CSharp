@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "seminar_01_replace_rows/1.0.0": {
+        "runtime": {
+          "seminar_01_replace_rows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar_01_replace_rows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

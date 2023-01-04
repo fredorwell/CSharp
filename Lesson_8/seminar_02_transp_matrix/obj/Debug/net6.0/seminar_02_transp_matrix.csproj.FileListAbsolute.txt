@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\bin\Debug\net6.0\seminar_02_transp_matrix.exe
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\bin\Debug\net6.0\seminar_02_transp_matrix.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\bin\Debug\net6.0\seminar_02_transp_matrix.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\bin\Debug\net6.0\seminar_02_transp_matrix.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\bin\Debug\net6.0\seminar_02_transp_matrix.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\refint\seminar_02_transp_matrix.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\seminar_02_transp_matrix.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_02_transp_matrix\obj\Debug\net6.0\ref\seminar_02_transp_matrix.dll

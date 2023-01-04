@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\bin\Debug\net6.0\lecture_03_arrayIndex.exe
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\bin\Debug\net6.0\lecture_03_arrayIndex.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\bin\Debug\net6.0\lecture_03_arrayIndex.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\bin\Debug\net6.0\lecture_03_arrayIndex.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\bin\Debug\net6.0\lecture_03_arrayIndex.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\refint\lecture_03_arrayIndex.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\lecture_03_arrayIndex.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_03_arrayIndex\obj\Debug\net6.0\ref\lecture_03_arrayIndex.dll

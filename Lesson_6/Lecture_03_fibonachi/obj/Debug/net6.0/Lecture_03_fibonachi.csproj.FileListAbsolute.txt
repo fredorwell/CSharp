@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\bin\Debug\net6.0\Lecture_03_fibonachi.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\bin\Debug\net6.0\Lecture_03_fibonachi.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\bin\Debug\net6.0\Lecture_03_fibonachi.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\bin\Debug\net6.0\Lecture_03_fibonachi.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\bin\Debug\net6.0\Lecture_03_fibonachi.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\refint\Lecture_03_fibonachi.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\Lecture_03_fibonachi.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_03_fibonachi\obj\Debug\net6.0\ref\Lecture_03_fibonachi.dll

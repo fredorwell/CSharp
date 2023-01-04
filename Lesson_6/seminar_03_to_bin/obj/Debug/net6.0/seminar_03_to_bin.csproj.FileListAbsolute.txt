@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\bin\Debug\net6.0\seminar_03_to_bin.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\bin\Debug\net6.0\seminar_03_to_bin.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\bin\Debug\net6.0\seminar_03_to_bin.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\bin\Debug\net6.0\seminar_03_to_bin.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\bin\Debug\net6.0\seminar_03_to_bin.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\refint\seminar_03_to_bin.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\seminar_03_to_bin.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_03_to_bin\obj\Debug\net6.0\ref\seminar_03_to_bin.dll

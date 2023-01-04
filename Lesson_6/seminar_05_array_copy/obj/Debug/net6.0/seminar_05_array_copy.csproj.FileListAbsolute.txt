@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\bin\Debug\net6.0\seminar_05_array_copy.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\bin\Debug\net6.0\seminar_05_array_copy.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\bin\Debug\net6.0\seminar_05_array_copy.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\bin\Debug\net6.0\seminar_05_array_copy.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\bin\Debug\net6.0\seminar_05_array_copy.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\refint\seminar_05_array_copy.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\seminar_05_array_copy.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_05_array_copy\obj\Debug\net6.0\ref\seminar_05_array_copy.dll

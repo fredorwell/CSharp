@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\bin\Debug\net6.0\lecture_02_array_sort.exe
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\bin\Debug\net6.0\lecture_02_array_sort.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\bin\Debug\net6.0\lecture_02_array_sort.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\bin\Debug\net6.0\lecture_02_array_sort.dll
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\bin\Debug\net6.0\lecture_02_array_sort.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.dll
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\refint\lecture_02_array_sort.dll
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\lecture_02_array_sort.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_3\lecture_02_array_sort\obj\Debug\net6.0\ref\lecture_02_array_sort.dll

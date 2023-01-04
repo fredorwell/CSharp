@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\bin\Debug\net6.0\Lecture_2_recursion_factorial.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\bin\Debug\net6.0\Lecture_2_recursion_factorial.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\bin\Debug\net6.0\Lecture_2_recursion_factorial.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\bin\Debug\net6.0\Lecture_2_recursion_factorial.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\bin\Debug\net6.0\Lecture_2_recursion_factorial.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\refint\Lecture_2_recursion_factorial.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\Lecture_2_recursion_factorial.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\Lecture_2_recursion_factorial\obj\Debug\net6.0\ref\Lecture_2_recursion_factorial.dll

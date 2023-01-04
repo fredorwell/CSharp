@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\bin\Debug\net6.0\seminar_03_dictionar_stat.exe
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\bin\Debug\net6.0\seminar_03_dictionar_stat.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\bin\Debug\net6.0\seminar_03_dictionar_stat.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\bin\Debug\net6.0\seminar_03_dictionar_stat.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\bin\Debug\net6.0\seminar_03_dictionar_stat.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\refint\seminar_03_dictionar_stat.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\seminar_03_dictionar_stat.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_03_dictionar_stat\obj\Debug\net6.0\ref\seminar_03_dictionar_stat.dll

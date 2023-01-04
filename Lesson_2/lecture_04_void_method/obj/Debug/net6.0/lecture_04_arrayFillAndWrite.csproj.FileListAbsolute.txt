@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\bin\Debug\net6.0\lecture_04_arrayFillAndWrite.exe
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\bin\Debug\net6.0\lecture_04_arrayFillAndWrite.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\bin\Debug\net6.0\lecture_04_arrayFillAndWrite.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\bin\Debug\net6.0\lecture_04_arrayFillAndWrite.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\bin\Debug\net6.0\lecture_04_arrayFillAndWrite.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\refint\lecture_04_arrayFillAndWrite.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\lecture_04_arrayFillAndWrite.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_04_arrayFillAndWrite\obj\Debug\net6.0\ref\lecture_04_arrayFillAndWrite.dll

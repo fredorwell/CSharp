@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\bin\Debug\net6.0\seminar_01_replace_rows.exe
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\bin\Debug\net6.0\seminar_01_replace_rows.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\bin\Debug\net6.0\seminar_01_replace_rows.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\bin\Debug\net6.0\seminar_01_replace_rows.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\bin\Debug\net6.0\seminar_01_replace_rows.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\refint\seminar_01_replace_rows.dll
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\seminar_01_replace_rows.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_8\seminar_01_replace_rows\obj\Debug\net6.0\ref\seminar_01_replace_rows.dll

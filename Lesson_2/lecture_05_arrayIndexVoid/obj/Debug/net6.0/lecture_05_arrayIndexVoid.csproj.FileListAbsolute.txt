@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\bin\Debug\net6.0\lecture_05_arrayIndexVoid.exe
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\bin\Debug\net6.0\lecture_05_arrayIndexVoid.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\bin\Debug\net6.0\lecture_05_arrayIndexVoid.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\bin\Debug\net6.0\lecture_05_arrayIndexVoid.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\bin\Debug\net6.0\lecture_05_arrayIndexVoid.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\refint\lecture_05_arrayIndexVoid.dll
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\lecture_05_arrayIndexVoid.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_2\lecture_05_arrayIndexVoid\obj\Debug\net6.0\ref\lecture_05_arrayIndexVoid.dll

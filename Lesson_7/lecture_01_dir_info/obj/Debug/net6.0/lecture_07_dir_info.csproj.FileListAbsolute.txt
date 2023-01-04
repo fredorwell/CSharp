@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\bin\Debug\net6.0\lecture_07_dir_info.exe
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\bin\Debug\net6.0\lecture_07_dir_info.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\bin\Debug\net6.0\lecture_07_dir_info.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\bin\Debug\net6.0\lecture_07_dir_info.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\bin\Debug\net6.0\lecture_07_dir_info.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\refint\lecture_07_dir_info.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\lecture_07_dir_info.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\lecture_07_dir_info\obj\Debug\net6.0\ref\lecture_07_dir_info.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lecture_2_recursion_factorial/1.0.0": {
+        "runtime": {
+          "Lecture_2_recursion_factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture_2_recursion_factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

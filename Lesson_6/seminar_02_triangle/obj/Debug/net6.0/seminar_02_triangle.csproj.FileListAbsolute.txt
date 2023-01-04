@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\bin\Debug\net6.0\seminar_02_triangle.exe
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\bin\Debug\net6.0\seminar_02_triangle.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\bin\Debug\net6.0\seminar_02_triangle.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\bin\Debug\net6.0\seminar_02_triangle.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\bin\Debug\net6.0\seminar_02_triangle.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\refint\seminar_02_triangle.dll
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\seminar_02_triangle.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_6\seminar_02_triangle\obj\Debug\net6.0\ref\seminar_02_triangle.dll

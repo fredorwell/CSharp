@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\bin\Debug\net6.0\seminar_04.exe
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\bin\Debug\net6.0\seminar_04.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\bin\Debug\net6.0\seminar_04.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\bin\Debug\net6.0\seminar_04.dll
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\bin\Debug\net6.0\seminar_04.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.dll
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\refint\seminar_04.dll
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\seminar_04.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_5\seminar_04\obj\Debug\net6.0\ref\seminar_04.dll

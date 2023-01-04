@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\bin\Debug\net6.0\seminar_04_two_dim_sum.exe
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\bin\Debug\net6.0\seminar_04_two_dim_sum.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\bin\Debug\net6.0\seminar_04_two_dim_sum.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\bin\Debug\net6.0\seminar_04_two_dim_sum.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\bin\Debug\net6.0\seminar_04_two_dim_sum.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\refint\seminar_04_two_dim_sum.dll
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\seminar_04_two_dim_sum.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_7\seminar_04_two_dim_sum\obj\Debug\net6.0\ref\seminar_04_two_dim_sum.dll

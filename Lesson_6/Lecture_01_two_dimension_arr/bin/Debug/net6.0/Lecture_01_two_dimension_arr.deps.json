@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lecture_01_two_dimension_arr/1.0.0": {
+        "runtime": {
+          "Lecture_01_two_dimension_arr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture_01_two_dimension_arr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
