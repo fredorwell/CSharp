@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\bin\Debug\net6.0\example_003_div.exe
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\bin\Debug\net6.0\example_003_div.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\bin\Debug\net6.0\example_003_div.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\bin\Debug\net6.0\example_003_div.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\bin\Debug\net6.0\example_003_div.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\refint\example_003_div.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\example_003_div.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_003_div\obj\Debug\net6.0\ref\example_003_div.dll

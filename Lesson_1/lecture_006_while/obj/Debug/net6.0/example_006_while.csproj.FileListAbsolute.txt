@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\bin\Debug\net6.0\example_006_while.exe
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\bin\Debug\net6.0\example_006_while.deps.json
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\bin\Debug\net6.0\example_006_while.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\bin\Debug\net6.0\example_006_while.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\bin\Debug\net6.0\example_006_while.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\refint\example_006_while.dll
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.pdb
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\example_006_while.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\Lesson_1\example_006_while\obj\Debug\net6.0\ref\example_006_while.dll

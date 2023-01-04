@@ -1,0 +1,15 @@
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\bin\Debug\net6.0\homework_task_08.exe
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\bin\Debug\net6.0\homework_task_08.deps.json
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\bin\Debug\net6.0\homework_task_08.runtimeconfig.json
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\bin\Debug\net6.0\homework_task_08.dll
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\bin\Debug\net6.0\homework_task_08.pdb
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.csproj.AssemblyReference.cache
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.AssemblyInfoInputs.cache
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.AssemblyInfo.cs
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.csproj.CoreCompileInputs.cache
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.dll
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\refint\homework_task_08.dll
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.pdb
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\homework_task_08.genruntimeconfig.cache
+C:\Users\kolya\Documents\education\C#\seminar_1_homework\homework_task_08\obj\Debug\net6.0\ref\homework_task_08.dll
